@@ -78,6 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_plus/proprietary/framework/com.qualcomm.qti.imscmservice@1.0-java.jar:system/framework/com.qualcomm.qti.imscmservice@1.0-java.jar \
     vendor/zuk/z2_plus/proprietary/framework/com.quicinc.cne.api-V1.0-java.jar:system/framework/com.quicinc.cne.api-V1.0-java.jar \
     vendor/zuk/z2_plus/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
+    vendor/zuk/z2_plus/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/zuk/z2_plus/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
     vendor/zuk/z2_plus/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/zuk/z2_plus/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
